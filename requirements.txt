@@ -1,0 +1,2 @@
+memory-profiler==0.61.0
+ujson==5.4.0
